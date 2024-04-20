@@ -9,6 +9,8 @@
 
 
 
+
+
 <br/>
 
 
@@ -120,12 +122,12 @@ const eva = {
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Eva-Kaushik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
-        </p>
-        <p  align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eva-Kaushik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Eva-Kaushik" height="192px"/>
+    <a href="https://github.com/Eva-Kaushik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/></a>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-Kaushik&langs_count=8&theme=algolia" alt="Eva-Kaushik" height="192px"/>
+  </p>
   <br/>
-
 </details>
 
 ### Research and Publications
