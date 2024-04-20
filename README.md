@@ -9,6 +9,8 @@
 
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 
 <br/>
@@ -19,20 +21,22 @@
 
 ```javascript
 
-const eva = {               
-    pronouns: "She" | "Her",
-    code: ["Python", "Java", "Javascript", "C", "CPP"],
-    askMeAbout: ["Data Scientist", "tech", "GenAI", "Machine Learning"],
-    devOps: ["AWS", "Docker🐳", "Azure"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "End-to-End CI/CD", "SuiteApp", "IDApro"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Data Science, MLOps, AIOps, Agentic AI",
+const eva = {
+  pronouns: "She" | "Her",
+  code: ["Python", "R", "SQL", "Scala", "Julia"],
+  askMeAbout: ["Data Science", "Machine Learning", "AI", "Deep Learning"],
+  technologies: {
+    dataScience: ["Pandas", "NumPy", "SciPy", "Scikit-learn", "TensorFlow", "Keras"],
+    cloudServices: ["AWS", "Azure", "GCP"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "BigQuery"],
+    misc: ["Docker", "Kubernetes", "Jupyter Notebook", "Tableau"]
+  },
+  architecture: ["Microservices", "Data Lakes", "ETL Pipelines"],
+  currentFocus: ["Building Scalable ML Models", "Deep Learning for Computer Vision", "Natural Language Processing"],
 };
+
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 
@@ -64,37 +68,66 @@ const eva = {
 &emsp;
 </p>
 
-### 👉 Frontend Development
+### 👉 Data Science and Analysis
 <p align="left">
-  &emsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
   </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+   
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white">
   </a>
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+   
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   </a>
-&emsp;
+   
+  <a href="https://www.tableau.com/" target="_blank">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white">
+  </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Machine Learning & Deep Learning Frameworks
 <p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
- &emsp;
+   
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white">
+  </a>
+   
+  <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white">
+  </a>
+   
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white">
+  </a>
+   
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+  </a>
 </p>
+
+### 👉 Databases & Big Data Technologies
+<p align="left">
+   
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white">
+  </a>
+   
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=flat&logo=apache-hadoop&logoColor=white">
+  </a>
+   
+  <a href="https://spark.apache.org/" target="_blank">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat&logo=apache-spark&logoColor=white">
+  </a>
+   
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white">
+  </a>
+</p>
+
 
 ### Machine Learning and AI:
 
@@ -117,17 +150,14 @@ const eva = {
 
 ## 📊 Github Stats (Expand to View)
 
+<a href="https://github.com/Eva-Kaushik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/>
+</a>
+<a href="https://github.com/Eva-Kaushik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-kaushik&theme=algolia" alt="Eva-Kaushik" height="192px"/>
+</a>
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Eva-Kaushik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="Eva-Kaushik" height="192px"/></a>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-Kaushik&langs_count=8&theme=algolia" alt="Eva-Kaushik" height="192px"/>
-  </p>
-  <br/>
+
 </details>
 
 ### Research and Publications
