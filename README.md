@@ -9,6 +9,10 @@
 
 
 
+<br/>
+
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
@@ -23,7 +27,6 @@ const eva = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Data Science, MLOps, AIOps, Agentic AI",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
@@ -121,10 +124,8 @@ const eva = {
         </p>
         <p  align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eva-Kaushik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Eva-Kaushik" height="192px"/>
-        </p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+
 </details>
 
 ### Research and Publications
