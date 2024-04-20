@@ -1,13 +1,11 @@
-# Interactive-Git
 <h2>Hey, I'm Eva Kaushik <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><img src="https://i.imgur.com/dkjGjCN.gif" width=30%><img src="https://i.imgur.com/FaDmIVv.gif" width=20%></h2>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />
-<p><em>Data Scientist at <a href="https://dxc.com/in/en">Team bi0s</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+<p><em>Data Scientist at <a href="https://dxc.com/in/en">DXC Technology</a></em></p>
 
 
 ![](https://komarev.com/ghpvc/?username=Ad0lphus)
-[![linkedin badge](https://img.shields.io/badge/linkedin-prabithgs-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
+[![linkedin badge](https://img.shields.io/badge/linkedin-evakaushik-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/eva-kaushik-69ba98171/)
 
 
 
@@ -119,10 +117,10 @@ const eva = {
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Ad0lphus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad0lphus&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/Eva-Kaushik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eva-kaushik&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
         </p>
         <p  align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad0lphus&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ad0lphus" height="192px"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eva-Kaushik&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Eva-Kaushik" height="192px"/>
         </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -133,23 +131,18 @@ const eva = {
 
 - **Cardiovascular Disease Prediction using Machine Learning Techniques**
   Published in AIP Proceedings
-  Read More
 
 - **Translational Bioinformatics Ontology In Healthcare with Cloud Computing**
   Published in IEEE
-  Read More
 
 - **Galactic Simulation: Visual Perception of Anisotropic Dark Matter**
   Published in Springer
-  Read More
 
 - **Postmortem Concentrations: Distributed Privacy-Preserving Blockchain Authentication Framework in Cloud Forensics**
   Published in Taylor & Francis CRC Press
-  *Link not provided*
 
 - **Genetically Induced Biomaterial Advances in Medical Sciences**
   Published in Springer
-  Read More
 
 
 
@@ -161,7 +154,6 @@ const eva = {
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://prabith.gq/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="mailto:kaushikeva0026@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
         <a href="https://github.com/Eva-Kaushik"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/eva-kaushik-69ba98171/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
